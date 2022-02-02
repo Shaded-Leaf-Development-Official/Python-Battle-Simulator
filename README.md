@@ -5,6 +5,11 @@ this is just a lil' project i'm workin' on in my free time as a fun thing to do 
 
 full of spaghetti code, will probably fix this later.
 
+also BE WARNED, the RNG in this program is janky AF, usually leads to strings of either the player or the enemy getting a lot of consecutive turns in a row.
+
+not gonna fix that though i like the janky charm that adds ^^', if you wanna change it though by all means :3, though if you're gonna edit and then upload
+my program again, credit would be highly appreciated but it's not required.
+
 Current version: 0.8.0 Beta (Codename: IT'S ALIIIVE!)
 
 what you can do:
